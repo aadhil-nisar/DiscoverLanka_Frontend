@@ -107,8 +107,8 @@ These are reasonable next steps based on the current frontend structure and plan
 
 **Aadhil Nisar**  
 Frontend project for **DiscoverLanka**  
-University student project based on Sri Lanka travel discovery and trip planning. :contentReference[oaicite:13]{index=13}
+University student project based on Sri Lanka travel discovery and trip planning.
 
 ## Note
 
-This project is currently in development and is intended for educational, design, and demonstration purposes. It is not yet a full production travel service. :contentReference[oaicite:14]{index=14}
+This project is currently in development and is intended for educational, design, and demonstration purposes. It is not yet a full production travel service.
